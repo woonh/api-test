@@ -1,0 +1,8 @@
+`[
+{ 
+"task":"FastQC", 
+"image":"staphb/fastqc",
+"cmd": "docker run staphb/fastqc fastqc ILMICRO-V1V2_R1.fq" 
+  }
+
+]`
